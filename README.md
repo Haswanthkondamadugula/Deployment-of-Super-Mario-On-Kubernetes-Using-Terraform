@@ -127,6 +127,6 @@ Contributions are welcome! If you'd like to improve this project, feel free to s
 
 ## 🛠️ **Author & Community**  
 
-This project is crafted by Haswanth  
+This project is crafted by **[Haswanth](https://github.com/Haswanthkondamadugula)** 💡
 I’d love to hear your feedback! Feel free to share your thoughts.  
 

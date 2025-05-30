@@ -107,7 +107,7 @@ Access **Super Mario** in your browser using the displayed URL.
 
 This project is inspired by the **Super Mario** game, and it demonstrates real-world **DevOps practices** using AWS, Terraform, and Kubernetes.  
 
-👉 **Read the detailed blog here**: [Super Mario EKS Deployment](https://blog.prodevopsguy.xyz/deployment-of-super-mario-on-kubernetes-using-terraform)  
+👉 **Read the detailed blog here**: [Super Mario EKS Deployment](https://clouddevops13.hashnode.dev/building-a-scalable-and-secure-devsecops-pipeline-for-infinite-mario-game)  
 
 🚀 *Happy Gaming & DevOps-ing!* 🎮
 
